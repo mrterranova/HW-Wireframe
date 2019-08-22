@@ -40,7 +40,7 @@ body {
     margin-bottom: 10px;
     flex-wrap: wrap;
 }
-
+/* adding some disance between sections */
 .sect{
     margin-top: 20px;
 }
