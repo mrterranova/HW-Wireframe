@@ -2,6 +2,8 @@
 
 This assignment requires a basic understanding of CSS and how to align boxes using basic CSS functions. 
 
+One can view my Wireframe assignment here:
+
 ### Overview
 
 In this assignment, you will build a web design skeleton using HTML/CSS. Your completed work should look just like the image below:
