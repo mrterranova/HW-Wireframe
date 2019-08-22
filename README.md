@@ -1,2 +1,5 @@
-# HW-Wireframe
-Beginning project to understand box alignment and using css and html
+# Wireframe
+
+This assignment requires a basic understanding of CSS and how to align boxes using basic CSS functions.
+
+
