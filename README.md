@@ -2,7 +2,7 @@
 
 This assignment requires a basic understanding of CSS and how to align boxes using basic CSS functions. 
 
-One can view my Wireframe assignment here:
+One can view my Wireframe assignment here: https://mrterranova.github.io/HW-Wireframe/ 
 
 ### Overview
 
