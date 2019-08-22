@@ -63,7 +63,7 @@ body {
     color: #ccc;
     margin-bottom:10px;
 }
-
+/* under the article section */
 .h1h2 {
     display:flex;
     justify-content: center;
@@ -75,7 +75,7 @@ body {
     height: 40px;
     background: #ccc;
 }
-
+/* paragraph section */
 .p {
     display: flex;
     justify-content: center;
@@ -88,7 +88,7 @@ body {
     margin-bottom: 20px;
     background: #ccc;
 }
-
+/* this is the other side of the screen */
 .aside {
     display:flex;
     justify-content: center;
@@ -100,7 +100,7 @@ body {
     float: right;
     padding:20px;
 }
-
+/* the footer */
 .footer {
     display:flex;
     justify-content: center;
