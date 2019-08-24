@@ -12,6 +12,7 @@ In this assignment, you will build a web design skeleton using HTML/CSS. Your co
 
 
 ### Instructions
+* Below are specific instructions given to complete the first project
 
 1. Create a new repository in GitHub called `HW-Wireframe`.
 2. Clone this repository to your computer by following the process we went over in class.
