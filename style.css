@@ -10,6 +10,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color:#777777;
 }
+
 /* the heading */
 .header {
     display:flex;
@@ -19,6 +20,7 @@ body {
     background: #ccc;
     padding:20px;
 }
+
 /* the navigation bar */
 .nav {
     display:flex;
