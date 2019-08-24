@@ -60,11 +60,13 @@ body {
     flex-direction: column;
     padding:10px 0px 0px 0px;
 }
+
  /* the division inside the article section */
 #art{
     color: #ccc;
     margin-bottom:10px;
 }
+
 /* under the article section */
 .h1h2 {
     display:flex;
