@@ -24,7 +24,3 @@ In this assignment, you will build a web design skeleton using HTML/CSS. Your co
 5. Return to your local copies of `index.html` and `style.css`. Using the screenshot at the top of these instructions, recreate the design using HTML/CSS.
    * All of your HTML should be inside of the `index.html` file.
    * All of your CSS should be inside of the `style.css` file.
-6. When you finish the assignment, commit your changes with Git and push them into your GitHub repo. Remember:
-   * `git add .`
-   * `git commit -m "<COMMENT>"`
-   * `git push origin master`
