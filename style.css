@@ -79,6 +79,7 @@ body {
     height: 40px;
     background: #ccc;
 }
+
 /* paragraph section */
 .p {
     display: flex;
@@ -92,6 +93,7 @@ body {
     margin-bottom: 20px;
     background: #ccc;
 }
+
 /* this is the other side of the screen */
 .aside {
     display:flex;
