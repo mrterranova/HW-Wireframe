@@ -1,6 +1,6 @@
 # Wireframe
 
-This assignment requires a basic understanding of CSS and how to align boxes using basic CSS functions. 
+This assignment requires a basic understanding of CSS and how to align boxes using basic CSS functions such as display: flex. 
 
 One can view my Wireframe assignment here: https://mrterranova.github.io/HW-Wireframe/ 
 
