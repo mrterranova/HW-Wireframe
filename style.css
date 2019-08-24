@@ -28,6 +28,7 @@ body {
     background: #ccc;
     padding: 20px;
 }
+
 /* area labeled section to the left on screen */
 .section {
     display:flex;
@@ -106,6 +107,7 @@ body {
     float: right;
     padding:20px;
 }
+
 /* the footer */
 .footer {
     display:flex;
